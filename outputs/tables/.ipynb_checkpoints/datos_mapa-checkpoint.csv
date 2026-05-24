@@ -1,0 +1,132 @@
+cod_barrio,barrio,cluster,cluster_nombre,indice_gentrificacion,nivel_gentrificacion
+11,011. Palacio,0,Barrios consolidados y turísticos,0.4744,N1 - Gentrificación activa
+12,012. Embajadores,0,Barrios consolidados y turísticos,0.5221,N1 - Gentrificación activa
+13,013. Cortes,0,Barrios consolidados y turísticos,0.5409,N1 - Gentrificación activa
+14,014. Justicia,0,Barrios consolidados y turísticos,0.5375,N1 - Gentrificación activa
+15,015. Universidad,0,Barrios consolidados y turísticos,0.5383,N1 - Gentrificación activa
+16,016. Sol,0,Barrios consolidados y turísticos,0.624,N1 - Gentrificación activa
+21,021. Imperial,2,Barrios residenciales estables,0.3022,N3 - Sin dinámicas gentrificadoras
+22,022. Acacias,2,Barrios residenciales estables,0.2986,N3 - Sin dinámicas gentrificadoras
+23,023. Chopera,2,Barrios residenciales estables,0.3841,N3 - Sin dinámicas gentrificadoras
+24,024. Legazpi,2,Barrios residenciales estables,0.3045,N3 - Sin dinámicas gentrificadoras
+25,025. Delicias,2,Barrios residenciales estables,0.3655,N3 - Sin dinámicas gentrificadoras
+26,026. Palos de la Frontera,2,Barrios residenciales estables,0.3696,N3 - Sin dinámicas gentrificadoras
+27,027. Atocha,0,Barrios consolidados y turísticos,0.4658,N1 - Gentrificación activa
+31,031. Pacífico,2,Barrios residenciales estables,0.3149,N3 - Sin dinámicas gentrificadoras
+32,032. Adelfas,2,Barrios residenciales estables,0.3045,N3 - Sin dinámicas gentrificadoras
+33,033. Estrella,2,Barrios residenciales estables,0.254,N3 - Sin dinámicas gentrificadoras
+34,034. Ibiza,0,Barrios consolidados y turísticos,0.3904,N3 - Sin dinámicas gentrificadoras
+35,035. Los Jerónimos,0,Barrios consolidados y turísticos,0.4174,N2 - Tendencia gentrificadora
+36,036. Niño Jesús,2,Barrios residenciales estables,0.2894,N3 - Sin dinámicas gentrificadoras
+41,041. Recoletos,0,Barrios consolidados y turísticos,0.4212,N2 - Tendencia gentrificadora
+42,042. Goya,0,Barrios consolidados y turísticos,0.4396,N2 - Tendencia gentrificadora
+43,043. Fuente del Berro,2,Barrios residenciales estables,0.3791,N3 - Sin dinámicas gentrificadoras
+44,044. Guindalera,2,Barrios residenciales estables,0.4002,N2 - Tendencia gentrificadora
+45,045. Lista,0,Barrios consolidados y turísticos,0.4424,N2 - Tendencia gentrificadora
+46,046. Castellana,0,Barrios consolidados y turísticos,0.4677,N1 - Gentrificación activa
+51,051. El Viso,2,Barrios residenciales estables,0.3383,N3 - Sin dinámicas gentrificadoras
+52,052. Prosperidad,2,Barrios residenciales estables,0.3301,N3 - Sin dinámicas gentrificadoras
+53,053. Ciudad Jardín,2,Barrios residenciales estables,0.347,N3 - Sin dinámicas gentrificadoras
+54,054. Hispanoamérica,2,Barrios residenciales estables,0.3245,N3 - Sin dinámicas gentrificadoras
+55,055. Nueva España,2,Barrios residenciales estables,0.3355,N3 - Sin dinámicas gentrificadoras
+56,056. Castilla,2,Barrios residenciales estables,0.3737,N3 - Sin dinámicas gentrificadoras
+61,061. Bellas Vistas,1,Barrios en transformación,0.4469,N2 - Tendencia gentrificadora
+62,062. Cuatro Caminos,0,Barrios consolidados y turísticos,0.418,N2 - Tendencia gentrificadora
+63,063. Castillejos,2,Barrios residenciales estables,0.4017,N2 - Tendencia gentrificadora
+64,064. Almenara,1,Barrios en transformación,0.4467,N2 - Tendencia gentrificadora
+65,065. Valdeacederas,1,Barrios en transformación,0.4337,N2 - Tendencia gentrificadora
+66,066. Berruguete,1,Barrios en transformación,0.4456,N2 - Tendencia gentrificadora
+71,071. Gaztambide,0,Barrios consolidados y turísticos,0.4269,N2 - Tendencia gentrificadora
+72,072. Arapiles,0,Barrios consolidados y turísticos,0.4242,N2 - Tendencia gentrificadora
+73,073. Trafalgar,0,Barrios consolidados y turísticos,0.4797,N1 - Gentrificación activa
+74,074. Almagro,0,Barrios consolidados y turísticos,0.423,N2 - Tendencia gentrificadora
+75,075. Ríos Rosas,0,Barrios consolidados y turísticos,0.4257,N2 - Tendencia gentrificadora
+76,076. Vallehermoso,2,Barrios residenciales estables,0.3777,N3 - Sin dinámicas gentrificadoras
+81,081. El Pardo,2,Barrios residenciales estables,0.3514,N3 - Sin dinámicas gentrificadoras
+82,082. Fuentelarreina,2,Barrios residenciales estables,0.2947,N3 - Sin dinámicas gentrificadoras
+83,083. Peñagrande,2,Barrios residenciales estables,0.2585,N3 - Sin dinámicas gentrificadoras
+84,084. Pilar,2,Barrios residenciales estables,0.3453,N3 - Sin dinámicas gentrificadoras
+85,085. La Paz,2,Barrios residenciales estables,0.1807,N3 - Sin dinámicas gentrificadoras
+86,086. Valverde,2,Barrios residenciales estables,0.3479,N3 - Sin dinámicas gentrificadoras
+87,087. Mirasierra,2,Barrios residenciales estables,0.2996,N3 - Sin dinámicas gentrificadoras
+88,088. El Goloso,2,Barrios residenciales estables,0.2803,N3 - Sin dinámicas gentrificadoras
+91,091. Casa de Campo,2,Barrios residenciales estables,0.3416,N3 - Sin dinámicas gentrificadoras
+92,092. Argüelles,0,Barrios consolidados y turísticos,0.4578,N2 - Tendencia gentrificadora
+93,093. Ciudad Universitaria,2,Barrios residenciales estables,0.3687,N3 - Sin dinámicas gentrificadoras
+94,094. Valdezarza,2,Barrios residenciales estables,0.3425,N3 - Sin dinámicas gentrificadoras
+95,095. Valdemarín,2,Barrios residenciales estables,0.3565,N3 - Sin dinámicas gentrificadoras
+96,096. El Plantío,2,Barrios residenciales estables,0.3115,N3 - Sin dinámicas gentrificadoras
+97,097. Aravaca,2,Barrios residenciales estables,0.3038,N3 - Sin dinámicas gentrificadoras
+101,101. Los Cármenes,1,Barrios en transformación,0.5059,N1 - Gentrificación activa
+102,102. Puerta del Ángel,1,Barrios en transformación,0.5229,N1 - Gentrificación activa
+103,103. Lucero,1,Barrios en transformación,0.4659,N1 - Gentrificación activa
+104,104. Aluche,1,Barrios en transformación,0.4226,N2 - Tendencia gentrificadora
+105,105. Campamento,1,Barrios en transformación,0.4993,N1 - Gentrificación activa
+106,106. Cuatro Vientos,2,Barrios residenciales estables,0.4006,N2 - Tendencia gentrificadora
+107,107. Águilas,1,Barrios en transformación,0.3913,N3 - Sin dinámicas gentrificadoras
+111,111. Comillas,1,Barrios en transformación,0.4584,N2 - Tendencia gentrificadora
+112,112. Opañel,1,Barrios en transformación,0.477,N1 - Gentrificación activa
+113,113. San Isidro,1,Barrios en transformación,0.4769,N1 - Gentrificación activa
+114,114. Vista Alegre,1,Barrios en transformación,0.4824,N1 - Gentrificación activa
+115,115. Puerta Bonita,1,Barrios en transformación,0.5147,N1 - Gentrificación activa
+116,116. Buenavista,1,Barrios en transformación,0.3968,N3 - Sin dinámicas gentrificadoras
+117,117. Abrantes,1,Barrios en transformación,0.4785,N1 - Gentrificación activa
+121,121. Orcasitas,1,Barrios en transformación,0.4296,N2 - Tendencia gentrificadora
+122,122. Orcasur,1,Barrios en transformación,0.5312,N1 - Gentrificación activa
+123,123. San Fermín,1,Barrios en transformación,0.457,N2 - Tendencia gentrificadora
+124,124. Almendrales,1,Barrios en transformación,0.5094,N1 - Gentrificación activa
+125,125. Moscardó,1,Barrios en transformación,0.5228,N1 - Gentrificación activa
+126,126. Zofío,1,Barrios en transformación,0.529,N1 - Gentrificación activa
+127,127. Pradolongo,1,Barrios en transformación,0.5476,N1 - Gentrificación activa
+131,131. Entrevías,1,Barrios en transformación,0.4728,N1 - Gentrificación activa
+132,132. San Diego,1,Barrios en transformación,0.5685,N1 - Gentrificación activa
+133,133. Palomeras Bajas,1,Barrios en transformación,0.4391,N2 - Tendencia gentrificadora
+134,134. Palomeras Sureste,1,Barrios en transformación,0.4181,N2 - Tendencia gentrificadora
+135,135. Portazgo,1,Barrios en transformación,0.4553,N2 - Tendencia gentrificadora
+136,136. Numancia,1,Barrios en transformación,0.502,N1 - Gentrificación activa
+141,141. Pavones,2,Barrios residenciales estables,0.3284,N3 - Sin dinámicas gentrificadoras
+142,142. Horcajo,2,Barrios residenciales estables,0.3935,N3 - Sin dinámicas gentrificadoras
+143,143. Marroquina,2,Barrios residenciales estables,0.321,N3 - Sin dinámicas gentrificadoras
+144,144. Media Legua,2,Barrios residenciales estables,0.3749,N3 - Sin dinámicas gentrificadoras
+145,145. Fontarrón,1,Barrios en transformación,0.4753,N1 - Gentrificación activa
+146,146. Vinateros,1,Barrios en transformación,0.425,N2 - Tendencia gentrificadora
+151,151. Ventas,1,Barrios en transformación,0.4296,N2 - Tendencia gentrificadora
+152,152. Pueblo Nuevo,1,Barrios en transformación,0.4037,N2 - Tendencia gentrificadora
+153,153. Quintana,1,Barrios en transformación,0.4458,N2 - Tendencia gentrificadora
+154,154. La Concepción,2,Barrios residenciales estables,0.3814,N3 - Sin dinámicas gentrificadoras
+155,155. San Pascual,2,Barrios residenciales estables,0.3285,N3 - Sin dinámicas gentrificadoras
+156,156. San Juan Bautista,2,Barrios residenciales estables,0.308,N3 - Sin dinámicas gentrificadoras
+157,157. Colina,2,Barrios residenciales estables,0.3222,N3 - Sin dinámicas gentrificadoras
+158,158. Atalaya,2,Barrios residenciales estables,0.3078,N3 - Sin dinámicas gentrificadoras
+159,159. Costillares,2,Barrios residenciales estables,0.2653,N3 - Sin dinámicas gentrificadoras
+161,161. Palomas,2,Barrios residenciales estables,0.2239,N3 - Sin dinámicas gentrificadoras
+162,162. Piovera,2,Barrios residenciales estables,0.2622,N3 - Sin dinámicas gentrificadoras
+163,163. Canillas,2,Barrios residenciales estables,0.2462,N3 - Sin dinámicas gentrificadoras
+164,164. Pinar del Rey,2,Barrios residenciales estables,0.2926,N3 - Sin dinámicas gentrificadoras
+165,165. Apóstol Santiago,2,Barrios residenciales estables,0.2972,N3 - Sin dinámicas gentrificadoras
+166,166. Valdefuentes,2,Barrios residenciales estables,0.285,N3 - Sin dinámicas gentrificadoras
+171,"171. Villaverde Alto, Casco Histórico de Villaverde",1,Barrios en transformación,0.4987,N1 - Gentrificación activa
+172,172. San Cristóbal,1,Barrios en transformación,0.6246,N1 - Gentrificación activa
+173,173. Butarque,2,Barrios residenciales estables,0.4035,N2 - Tendencia gentrificadora
+174,174. Los Rosales,1,Barrios en transformación,0.4581,N2 - Tendencia gentrificadora
+175,175. Ángeles,1,Barrios en transformación,0.5732,N1 - Gentrificación activa
+181,181. Casco Histórico de Vallecas,1,Barrios en transformación,0.3855,N3 - Sin dinámicas gentrificadoras
+182,182. Santa Eugenia,2,Barrios residenciales estables,0.2648,N3 - Sin dinámicas gentrificadoras
+183,183. Ensanche de Vallecas,1,Barrios en transformación,0.3848,N3 - Sin dinámicas gentrificadoras
+191,191. Casco Histórico de Vicálvaro,1,Barrios en transformación,0.4183,N2 - Tendencia gentrificadora
+192,192. Valdebernardo,2,Barrios residenciales estables,0.3719,N3 - Sin dinámicas gentrificadoras
+193,193. Valderrivas,2,Barrios residenciales estables,0.2471,N3 - Sin dinámicas gentrificadoras
+194,194. El Cañaveral,1,Barrios en transformación,0.5949,N1 - Gentrificación activa
+201,201. Simancas,1,Barrios en transformación,0.453,N2 - Tendencia gentrificadora
+202,202. Hellín,1,Barrios en transformación,0.5424,N1 - Gentrificación activa
+203,203. Amposta,1,Barrios en transformación,0.5242,N1 - Gentrificación activa
+204,204. Arcos,1,Barrios en transformación,0.4177,N2 - Tendencia gentrificadora
+205,205. Rosas,2,Barrios residenciales estables,0.3491,N3 - Sin dinámicas gentrificadoras
+206,206. Rejas,2,Barrios residenciales estables,0.344,N3 - Sin dinámicas gentrificadoras
+207,207. Canillejas,1,Barrios en transformación,0.3615,N3 - Sin dinámicas gentrificadoras
+208,208. El Salvador,2,Barrios residenciales estables,0.3267,N3 - Sin dinámicas gentrificadoras
+211,211. Alameda de Osuna,2,Barrios residenciales estables,0.2523,N3 - Sin dinámicas gentrificadoras
+212,212. Aeropuerto,1,Barrios en transformación,0.3783,N3 - Sin dinámicas gentrificadoras
+213,213. Casco Histórico de Barajas,2,Barrios residenciales estables,0.3317,N3 - Sin dinámicas gentrificadoras
+214,214. Timón,2,Barrios residenciales estables,0.2792,N3 - Sin dinámicas gentrificadoras
+215,215. Corralejos,2,Barrios residenciales estables,0.349,N3 - Sin dinámicas gentrificadoras

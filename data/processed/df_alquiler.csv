@@ -1,0 +1,132 @@
+cod_barrio,barrio,alquiler_2023,var_alquiler_dist_1823
+011,011. Palacio,19.87,11.73
+012,012. Embajadores,19.79,11.73
+013,013. Cortes,20.39,11.73
+014,014. Justicia,22.6,11.73
+015,015. Universidad,21.07,11.73
+016,016. Sol,20.49,11.73
+021,021. Imperial,16.65,14.04
+022,022. Acacias,17.18,14.04
+023,023. Chopera,16.29,14.04
+024,024. Legazpi,15.73,14.04
+025,025. Delicias,16.76,14.04
+026,026. Palos de la Frontera,17.5,14.04
+027,027. Atocha,16.68,14.04
+031,031. Pacífico,16.63,13.74
+032,032. Adelfas,15.86,13.74
+033,033. Estrella,15.53,13.74
+034,034. Ibiza,19.45,13.74
+035,035. Los Jerónimos,18.71,13.74
+036,036. Niño Jesús,17.14,13.74
+041,041. Recoletos,24.2,14.61
+042,042. Goya,21.2,14.61
+043,043. Fuente del Berro,17.82,14.61
+044,044. Guindalera,18.35,14.61
+045,045. Lista,21.1,14.61
+046,046. Castellana,22.38,14.61
+051,051. El Viso,19.4,13.35
+052,052. Prosperidad,17.49,13.35
+053,053. Ciudad Jardín,18.15,13.35
+054,054. Hispanoamérica,18.38,13.35
+055,055. Nueva España,17.61,13.35
+056,056. Castilla,16.16,13.35
+061,061. Bellas Vistas,17.34,15.25
+062,062. Cuatro Caminos,18.35,15.25
+063,063. Castillejos,17.76,15.25
+064,064. Almenara,16.94,15.25
+065,065. Valdeacederas,16.8,15.25
+066,066. Berruguete,16.36,15.25
+071,071. Gaztambide,19.26,15.51
+072,072. Arapiles,19.48,15.51
+073,073. Trafalgar,22.09,15.51
+074,074. Almagro,21.92,15.51
+075,075. Ríos Rosas,20.08,15.51
+076,076. Vallehermoso,18.25,15.51
+081,081. El Pardo,13.43,15.07
+082,082. Fuentelarreina,10.91,15.07
+083,083. Peñagrande,14.06,15.07
+084,084. Pilar,15.24,15.07
+085,085. La Paz,12.51,15.07
+086,086. Valverde,13.67,15.07
+087,087. Mirasierra,13.68,15.07
+088,088. El Goloso,13.92,15.07
+091,091. Casa de Campo,16.01,16.14
+092,092. Argüelles,19.1,16.14
+093,093. Ciudad Universitaria,16.12,16.14
+094,094. Valdezarza,14.89,16.14
+095,095. Valdemarín,15.66,16.14
+096,096. El Plantío,13.72,16.14
+097,097. Aravaca,14.28,16.14
+101,101. Los Cármenes,13.15,23.45
+102,102. Puerta del Ángel,15.68,23.45
+103,103. Lucero,12.45,23.45
+104,104. Aluche,12.44,23.45
+105,105. Campamento,13.13,23.45
+106,106. Cuatro Vientos,13.1,23.45
+107,107. Águilas,11.73,23.45
+111,111. Comillas,14.53,20.5
+112,112. Opañel,13.66,20.5
+113,113. San Isidro,14.06,20.5
+114,114. Vista Alegre,13.24,20.5
+115,115. Puerta Bonita,13.55,20.5
+116,116. Buenavista,12.69,20.5
+117,117. Abrantes,12.59,20.5
+121,121. Orcasitas,13.51,25.91
+122,122. Orcasur,12.84,25.91
+123,123. San Fermín,11.51,25.91
+124,124. Almendrales,13.72,25.91
+125,125. Moscardó,13.88,25.91
+126,126. Zofío,14.21,25.91
+127,127. Pradolongo,14.88,25.91
+131,131. Entrevías,11.72,23.35
+132,132. San Diego,14.48,23.35
+133,133. Palomeras Bajas,12.89,23.35
+134,134. Palomeras Sureste,12.19,23.35
+135,135. Portazgo,12.72,23.35
+136,136. Numancia,14.57,23.35
+141,141. Pavones,12.13,23.21
+142,142. Horcajo,12.13,23.21
+143,143. Marroquina,12.1,23.21
+144,144. Media Legua,11.88,23.21
+145,145. Fontarrón,12.16,23.21
+146,146. Vinateros,12.39,23.21
+151,151. Ventas,15.37,14.48
+152,152. Pueblo Nuevo,14.71,14.48
+153,153. Quintana,15.22,14.48
+154,154. La Concepción,15.05,14.48
+155,155. San Pascual,14.97,14.48
+156,156. San Juan Bautista,15.08,14.48
+157,157. Colina,15.97,14.48
+158,158. Atalaya,15.03,14.48
+159,159. Costillares,13.88,14.48
+161,161. Palomas,13.76,8.6
+162,162. Piovera,15.22,8.6
+163,163. Canillas,13.57,8.6
+164,164. Pinar del Rey,14.03,8.6
+165,165. Apóstol Santiago,13.15,8.6
+166,166. Valdefuentes,14.12,8.6
+171,"171. Villaverde Alto, Casco Histórico de Villaverde",12.65,26.67
+172,172. San Cristóbal,12.15,26.67
+173,173. Butarque,11.76,26.67
+174,174. Los Rosales,12.68,26.67
+175,175. Ángeles,11.5,26.67
+181,181. Casco Histórico de Vallecas,11.93,18.29
+182,182. Santa Eugenia,12.44,18.29
+183,183. Ensanche de Vallecas,12.95,18.29
+191,191. Casco Histórico de Vicálvaro,12.53,20.08
+192,192. Valdebernardo,12.95,20.08
+193,193. Valderribas,10.97,20.08
+194,194. El Cañaveral,11.55,20.08
+201,201. Simancas,13.87,15.24
+202,202. Hellín,12.87,15.24
+203,203. Amposta,12.87,15.24
+204,204. Arcos,13.37,15.24
+205,205. Rosas,12.19,15.24
+206,206. Rejas,12.14,15.24
+207,207. Canillejas,12.53,15.24
+208,208. El Salvador,13.11,15.24
+211,211. Alameda de Osuna,12.52,14.0
+212,212. Aeropuerto,12.7,14.0
+213,213. Casco Histórico de Barajas,13.25,14.0
+214,214. Timón,12.51,14.0
+215,215. Corralejos,12.53,14.0

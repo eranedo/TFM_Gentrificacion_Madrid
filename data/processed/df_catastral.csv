@@ -1,0 +1,132 @@
+cod_barrio,barrio,catastral_m2,var_catastral_m2_2023
+011,011. Palacio,1377.18,0.12
+012,012. Embajadores,1260.41,0.05
+013,013. Cortes,1546.72,-0.07
+014,014. Justicia,1642.98,0.07
+015,015. Universidad,1389.58,-0.58
+016,016. Sol,1453.18,-0.74
+021,021. Imperial,1291.0,-0.62
+022,022. Acacias,1257.57,-0.19
+023,023. Chopera,1173.47,-0.11
+024,024. Legazpi,1403.66,-0.63
+025,025. Delicias,1240.11,-0.12
+026,026. Palos de la Frontera,1171.58,0.0
+027,027. Atocha,1589.11,-1.46
+031,031. Pacífico,1282.85,0.01
+032,032. Adelfas,1371.32,-0.02
+033,033. Estrella,1394.88,-0.02
+034,034. Ibiza,1683.72,-0.02
+035,035. Los Jerónimos,2185.7,-0.1
+036,036. Niño Jesús,1741.1,-0.11
+041,041. Recoletos,2056.8,0.03
+042,042. Goya,1673.54,0.22
+043,043. Fuente del Berro,1380.16,-0.03
+044,044. Guindalera,1376.72,0.01
+045,045. Lista,1630.69,-0.16
+046,046. Castellana,2012.75,0.14
+051,051. El Viso,2045.95,0.12
+052,052. Prosperidad,1393.26,-0.06
+053,053. Ciudad Jardín,1425.2,-0.03
+054,054. Hispanoamérica,1627.45,-0.14
+055,055. Nueva España,1703.74,0.13
+056,056. Castilla,1326.3,-0.1
+061,061. Bellas Vistas,1167.5,0.01
+062,062. Cuatro Caminos,1390.0,-0.1
+063,063. Castillejos,1392.36,-0.09
+064,064. Almenara,1156.41,-0.25
+065,065. Valdeacederas,1023.43,2.09
+066,066. Berruguete,1115.97,-0.12
+071,071. Gaztambide,1368.73,-0.0
+072,072. Arapiles,1377.98,-0.04
+073,073. Trafalgar,1390.66,0.04
+074,074. Almagro,1639.11,0.1
+075,075. Ríos Rosas,1471.02,0.84
+076,076. Vallehermoso,1670.09,-0.1
+081,081. El Pardo,1020.43,0.05
+082,082. Fuentelarreina,1211.28,-0.12
+083,083. Peñagrande,1150.84,-0.24
+084,084. Pilar,1059.14,-0.17
+085,085. La Paz,1148.78,-0.11
+086,086. Valverde,1073.2,-0.87
+087,087. Mirasierra,1149.16,-0.11
+088,088. El Goloso,1064.41,-0.86
+091,091. Casa de Campo,1109.62,-0.1
+092,092. Argüelles,1882.39,-0.08
+093,093. Ciudad Universitaria,1292.7,0.33
+094,094. Valdezarza,1135.8,0.13
+095,095. Valdemarín,1209.96,-0.5
+096,096. El Plantío,1223.35,-0.02
+097,097. Aravaca,1094.6,0.27
+101,101. Los Cármenes,860.46,-0.05
+102,102. Puerta del Ángel,937.69,0.01
+103,103. Lucero,913.92,-0.07
+104,104. Aluche,880.69,-0.06
+105,105. Campamento,846.09,0.0
+106,106. Cuatro Vientos,911.17,-0.7
+107,107. Águilas,737.34,-0.09
+111,111. Comillas,776.99,-0.03
+112,112. Opañel,758.57,0.05
+113,113. San Isidro,744.46,-0.29
+114,114. Vista Alegre,725.52,0.08
+115,115. Puerta Bonita,730.29,-0.03
+116,116. Buenavista,727.08,0.18
+117,117. Abrantes,713.89,-0.16
+121,121. Orcasitas,496.27,-0.39
+122,122. Orcasur,614.17,-0.36
+123,123. San Fermín,661.93,-0.21
+124,124. Almendrales,724.81,-0.1
+125,125. Moscardó,700.6,-0.04
+126,126. Zofío,565.75,-0.0
+127,127. Pradolongo,587.0,-0.02
+131,131. Entrevías,535.34,-0.06
+132,132. San Diego,695.97,-0.03
+133,133. Palomeras Bajas,575.61,0.37
+134,134. Palomeras Sureste,616.03,-0.11
+135,135. Portazgo,583.88,-0.08
+136,136. Numancia,627.54,0.01
+141,141. Pavones,960.72,-0.39
+142,142. Horcajo,994.96,-0.28
+143,143. Marroquina,1009.23,-0.81
+144,144. Media Legua,1042.91,-0.21
+145,145. Fontarrón,879.09,-0.09
+146,146. Vinateros,963.35,-1.0
+151,151. Ventas,1015.6,-0.03
+152,152. Pueblo Nuevo,1007.37,-0.23
+153,153. Quintana,1112.63,0.05
+154,154. La Concepción,1091.46,-0.23
+155,155. San Pascual,1201.68,-0.44
+156,156. San Juan Bautista,1340.71,0.02
+157,157. Colina,1352.91,0.18
+158,158. Atalaya,1367.57,0.23
+159,159. Costillares,1418.21,-0.05
+161,161. Palomas,1288.01,-0.12
+162,162. Piovera,1507.37,0.05
+163,163. Canillas,1180.59,0.05
+164,164. Pinar del Rey,1114.32,-0.19
+165,165. Apóstol Santiago,1089.67,0.04
+166,166. Valdefuentes,1184.41,-0.11
+171,"171. Villaverde Alto, Casco Histórico de Villaverde",692.52,0.14
+172,172. San Cristóbal,409.01,0.01
+173,173. Butarque,698.66,-0.75
+174,174. Los Rosales,712.62,-0.08
+175,175. Ángeles,765.07,0.76
+181,181. Casco Histórico de Vallecas,759.32,0.02
+182,182. Santa Eugenia,658.86,-0.13
+183,183. Ensanche de Vallecas,845.62,-0.31
+191,191. Casco Histórico de Vicálvaro,740.83,0.52
+192,192. Valdebernardo,816.12,-0.25
+193,193. Valderribas,751.62,-0.96
+194,194. El Cañaveral,720.35,2.71
+201,201. Simancas,944.14,0.05
+202,202. Hellín,757.65,0.22
+203,203. Amposta,725.03,-0.0
+204,204. Arcos,833.04,0.1
+205,205. Rosas,955.22,-0.21
+206,206. Rejas,911.59,-0.2
+207,207. Canillejas,810.15,0.11
+208,208. El Salvador,858.45,0.04
+211,211. Alameda de Osuna,1114.02,-0.02
+212,212. Aeropuerto,961.63,16.66
+213,213. Casco Histórico de Barajas,1085.97,-0.26
+214,214. Timón,946.97,-1.9
+215,215. Corralejos,1190.9,-0.19
